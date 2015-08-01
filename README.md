@@ -1,6 +1,9 @@
 # README #
 
-This is a doc to quickly run through an app as an example. It follows the railstutorial.org book. 
+* This is a doc to quickly run through an app as an example. 
+* It follows the railstutorial.org book. 
+
+I'm using:
 -Rails 4.2.2
 -Ruby 2.1.1p95
 -CURRENTLY: section 1.4 Version control with Git. 
