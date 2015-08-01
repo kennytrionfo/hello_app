@@ -7,6 +7,7 @@ I'm using:
 -Rails 4.2.2
 -Ruby 2.1.1p95
 -CURRENTLY: section 1.4 Version control with Git. 
+
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
