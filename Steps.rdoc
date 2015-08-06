@@ -1,4 +1,5 @@
 This is a doc to quickly run through an app as an example. It follows the railstutorial.org book. 
 -Rails 4.2.2
 -Ruby 2.1.1p95
--CURRENTLY: listing 1.13
+-CURRENTLY: 1.5.1 Heroku set up
+
