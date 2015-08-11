@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -27,3 +28,7 @@ some stuff here. :)
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+# hello_app
+showing as example
+>>>>>>> 6edc0126a1876bf6e566a615e27492fca19907a7
