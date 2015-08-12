@@ -30,9 +30,12 @@ gem 'sdoc', '0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+group :production do
+	gem 'pg', '0.17.1' # Added by me to use postgresql
+  gem 'rails_12factor', '0.0.2' # Added by me to use heroku well
+end
+
 group :development, :test do
-	# Added by me 
-	gem 'pg', '0.17.1'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', '3.4.0'
 
